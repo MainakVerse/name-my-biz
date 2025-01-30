@@ -26,34 +26,6 @@
 - **Clean & Responsive UI**: Enjoy a visually appealing and seamless user experience across all devices.
 - **Beginner-Friendly Code**: Simple and well-structured codebase, ideal for learning and customization.
 
-## <a name="quick-start">🤸 Quick Start</a>
-
-Follow these steps to set up the project locally on your machine.
-
-**Prerequisites**
-
-Make sure you have the following installed on your machine:
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/Goswami2021Vaibhav/AI-Powered-Business-Name-Generator-Using-NextJs.git
-cd AI-Powered-Business-Name-Generator-Using-NextJs
-```
-
-**Installation**
-
-```bash
-npm install
-```
-
-**Set Up Environment Variables**
-
-Create a new file named `.env/.env.local` in the root of your project and add the following content:
 
 ```env
 NEXT_PUBLIC_GEMINI_API=
