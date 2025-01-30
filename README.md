@@ -1,3 +1,5 @@
+<h1>THE DOMAIN VALIDITY API CAN MAKE AT MOST 100 REQUESTS PER ACCOUNT. PLEASE GET YOUR OWN APIs AND TRY LOCALLY</h1>
+
 <div align="center">
  
   <h3 align="center">🤖 AI-Powered Business Name Generator</h3>
