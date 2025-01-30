@@ -102,7 +102,7 @@ Create a new file named `.env/.env.local` in the root of your project and add th
 
 ```env
 NEXT_PUBLIC_GEMINI_API=
-NEXT_PUBLIC_DOMAIN_STATUS_API=
+NEXT_PUBLIC_DOMAIN_STATUS_API=at_FxSl7CRYsiIn15ioHeol3XqWRkfBy
 ```
 
 add your own api keys.
